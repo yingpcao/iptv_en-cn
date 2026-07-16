@@ -1,41 +1,39 @@
 # ============================================================
-# iptv_cn_en.m3u — 精选中美英澳 IPTV 直播源
+# iptv_cn_en.m3u — 中·美·英·澳 IPTV 精选直播源
 # ============================================================
 # 
-# 📡 覆盖范围：中国 (CN) · 美国 (US) · 英国 (UK) · 澳洲 (AU)
-# 📊 频道总数：250 个（全部经连通测试 ✅）
-# 🔄 更新日期：2026-07-16
-# 🌐 数据来源：iptv-org/iptv (https://github.com/iptv-org/iptv)
+# 📡 覆盖：中国(46) · 美国(164) · 英国(58) · 澳洲(14)
+# 📊 频道：282 个 | ✅ 全部经连通测试
+# 🗓 更新：2026-07-16
+# 🌐 数据：iptv-org/iptv (github.com/iptv-org/iptv)
 # 
-# ── 分类分布 ──────────────────────────
-# 👶 Kids           55    迪士尼 / 尼克 / CBeebies / PBS Kids
-# 📰 News           53    BBC / CNN / Fox News / CGTN / Sky News / Bloomberg
-# ⚽ Sports         36    beIN / ESPN / Willow / 央体 / NFL / NBA
-# 🎬 Movies         36    AMC / Starz / 好莱坞电影 / 电影台
-# 📚 Education      25    PBS / TED / Create / 科教频道
-# 📖 Documentary    18    BBC Earth / CGTN Documentary / 探索
-# 🎨 Animation      16    动漫 / Crunchyroll / Mr Bean / 动画
-# 📺 Series         11    美剧 / 英剧 / 戏剧频道
-# 📡 General        11    CCTV / ABC / NBC / 综合频道
-# 🎵 Music           3
-# 🎭 Entertainment   4
+# ── 分类 ─────────────────────────────
+# 👶 Kids           58    Disney / Nick / CBeebies / PBS
+# 📰 News           57    BBC / CNN / Fox / Sky / CGTN / Bloomberg
+# ⚽ Sports         36    beIN / ESPN / Willow / Sky Sports
+# 🎬 Movies         36    AMC / Starz / 好莱坞 / 电影台
+# 📚 Education      25    PBS / TED / Create / 科教
+# 🎨 Animation      19    动漫 / Crunchyroll / 柯南 / 游戏王
+# 📖 Documentary    19    BBC Earth / CGTN / 历史 / 探索
+# 📡 General        14    CCTV / BBC One / ABC / NBC
+# 📺 Series         14    美剧 / 英剧 / FX / Bravo / AMC+
+# 🎭 Entertainment   9    Adult Swim / Freeform / 综艺
 # 
-# ── 电视网/品牌 ──────────────────────────
-# 🇨🇳 CCTV / CGTN / 北京卫视 / 山东台 / 金鹰卡通 / 优漫卡通
+# ── 品牌 ─────────────────────────────
+# 🇨🇳 CCTV / CGTN / 北京卫视 / 山东 / 金鹰卡通 / 优漫卡通
 # 🇬🇧 BBC / Sky / ITV / Channel 4 / Channel 5
-# 🇺🇸 ABC / NBC / CBS / FOX / CNN / PBS / Disney / Nickelodeon
-#     AMC / Starz / beIN Sports / ESPN / Bloomberg / CNBC
-# 🇦🇺 ABC Australia / 7News / 9Now / Sky News Australia
-# 🎌 Crunchyroll / Naruto / One Piece / Pokémon / Toonami
-# 🧱 LEGO / TED / Hasbro / Transformers / Peppa Pig
+# 🇺🇸 ABC / NBC / CBS / FOX / CNN / Disney / Nickelodeon
+#     AMC / Starz / FX / Bravo / Freeform / BET
+#     beIN Sports / ESPN / Bloomberg / CNBC
+# 🇦🇺 ABC Australia / 7News / 9Now / Sky News AU
+# 🎌 Crunchyroll / Naruto / One Piece / Pokémon / 柯南
+# 🇰🇷 Pluto TV 韩剧频道
+# 🧱 LEGO / TED / Hasbro / Transformers
 # 
-# ── 使用说明 ──────────────────────────
-# 支持任意 IPTV 播放器直接加载：
-#   • VLC / IINA / PotPlayer / Kodi
-#   • Apple TV (IPTV Smarters / TiviMate 等)
-# 
-# ⚠️ 标注 [Geo-blocked] 的频道可能需对应地区网络
-# ⚠️ 流媒体链接可能随时变化，建议定期更新
+# ── 用法 ─────────────────────────────
+# VLC / IINA / PotPlayer / Kodi / TiviMate 直接加载
+# 🔗 https://raw.githubusercontent.com/yingpcao/iptv_en-cn/main/iptv_cn_en.m3u
+# ⚠️ [Geo-blocked] 频道可能需要对应地区网络
 # ============================================================
 
 #EXTM3U
@@ -309,10 +307,6 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish" tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="Lifestyle;News",NowMedia Television Spanish (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="General;News",NTD TV English (1080p)
-https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
-#EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="General;News",NTD TV English UK (1080p)
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us@SD" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore (720p) [Geo-blocked]
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="News",One America News Network (720p)
@@ -546,4 +540,73 @@ http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="Undefined",CCTV-Culture of Quality (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="TED.us@SD" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="Undefined",TED (1080p)
-https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+#EXTINF:-1 tvg-id="AMCPlus.us@SD" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC+ (1080p)
+http://40.160.24.52/AMC_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="General",BBC Alba (1080p) (HEVC) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCDrama.uk@Spain" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Series",BBC Drama (1080p)
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Poland" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="Entertainment",BBC First
+http://91.146.94.234:10001/play/a087
+#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",BBC Lifestyle Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p) [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p) (HEVC) (1080p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Latin America (720p)
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@UKHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News UK HD (1080p)
+http://45.153.96.44:8001
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One London HD (720p)
+http://193.46.58.239:8080/BBCOneHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" group-title="Legislative",BBC Parliament (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p) (HEVC) (1080p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCRedButton1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png" group-title="Undefined",BBC RB 1 (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCScotland.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="General",BBC Scotland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="General",BBC Three HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD (720p)
+http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Undefined",BET (720p)
+http://40.160.24.52/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East" tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="Entertainment",BET Her (720p)
+http://40.160.24.52/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@West" tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="Entertainment",BET Her West (720p)
+http://206.212.244.63/19/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@West" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Undefined",BET West (720p)
+http://40.160.24.52/BET_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo (1080p)
+http://40.160.24.52/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@West" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo West (1080p)
+http://40.160.24.52/BRAVO_WEST/index.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="Kids",CBBC HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="DetectiveConan.us@Spain" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512" group-title="Animation;Kids",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-id="DetectiveConan.us@France" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" group-title="Animation;Kids",Detective Conan France (720p)
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform (720p)
+http://40.160.24.52/FREEFORM/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@West" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform West (720p)
+http://206.212.244.63/70/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX (1080p)
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDramasCoreanos.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png" group-title="Series",Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDramasCoreanosTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png" group-title="Series",Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Yu-Gi-Oh! (1080p)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="YuGiOhenespanol.us@SD" tvg-logo="https://i.imgur.com/VH8RiHg.png" group-title="Undefined",Yu-Gi-Oh! en espanol (1080p)
+https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
