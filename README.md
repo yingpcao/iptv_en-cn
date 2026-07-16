@@ -6,7 +6,12 @@
   • 📊 频道总数：250 个（全部经连通测试 ✅）  
   • 🔄 更新日期：2026-07-16  
   • 🌐 数据来源：iptv-org/iptv (https://github.com/iptv-org/iptv)
-  
+
+# Playlists
+The main playlist available in the repository can be found at:
+```
+  https://raw.githubusercontent.com/yingpcao/iptv_en-cn/main/iptv_cn_en.m3u
+```
 
 ## 分类分布 
   • 👶 Kids           55    迪士尼 / 尼克 / CBeebies / PBS Kids
@@ -49,6 +54,8 @@
 支持任意 IPTV 播放器直接加载：
   • VLC / IINA / PotPlayer / Kodi
   • Apple TV (IPTV Smarters / TiviMate 等)
+
+
 
 ⚠️ 标注 [Geo-blocked] 的频道可能需对应地区网络
 
