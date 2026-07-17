@@ -1,13 +1,13 @@
 
 # 精选中美英澳 IPTV 直播源
 
-> 📡 中国(CN) · 美国(US) · 英国(UK) · 澳洲(AU) | 共 282 个精选频道
+> 📡 中国(CN) · 美国(US) · 英国(UK) · 澳洲(AU) | 共 221 个精选频道
 
 > ✅ 全部经连通性测试 | 🗓 2026-07
 
 > 🔗 `https://raw.githubusercontent.com/yingpcao/iptv_en-cn/main/iptv_cn_en.m3u`
 
-> 📖 [iptv-org/iptv](https://github.com/iptv-org/iptv)
+> 📖 来源 [iptv-org/iptv](https://github.com/iptv-org/iptv) ，精挑细选美剧、news、动画、教育等频道
 
 ```
   https://raw.githubusercontent.com/yingpcao/iptv_en-cn/main/iptv_cn_en.m3u
