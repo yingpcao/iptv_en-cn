@@ -2,8 +2,8 @@
 # iptv_cn_en.m3u — 中·美·英·澳 IPTV 精选直播源
 # ============================================================
 # 
-# 📡 覆盖：中国(35) · 美国(134) · 英国(40) · 澳洲(12)
-# 📊 频道：221 个 | ✅ 全部经连通测试
+# 📡 覆盖：中国(34) · 美国(130) · 英国(40) · 澳洲(12)
+# 📊 频道：216 个 | ✅ 全部经连通测试
 # 🗓 更新：2026-07-17
 # 🌐 数据：iptv-org/iptv (github.com/iptv-org/iptv)
 # 
@@ -16,7 +16,7 @@
 # 🎨 Animation      19    动漫 / Crunchyroll / 柯南 / 游戏王
 # 📖 Documentary    19    BBC Earth / CGTN / 历史 / 探索
 # 📡 General        14    CCTV / BBC One / ABC / NBC
-# 📺 Series         18    美剧 ABC/CBS/NBC/Fox / 英剧 / FX / Bravo
+# 📺 Series         15    美剧 ABC/CBS/NBC/Fox / 英剧 / FX / Bravo
 # 🎭 Entertainment   9    Adult Swim / Freeform / 综艺
 # 
 # ── 品牌 ─────────────────────────────
@@ -59,8 +59,6 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalInfantil.us@SD" tvg-logo="https://i.imgur.com/WGk7MJ3.png" group-title="Kids",Canal Infantil (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png" group-title="Kids",CBeebies
 https://x.canlitvapp.com/u-cbeebies/index.m3u8
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kids",CBeebies Asia (720p)
@@ -363,9 +361,6 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us@SD" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="Movies",TVS Film Noir Network (720p)
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 tvg-id="UniversalComedy.us@SD" tvg-logo="https://i.imgur.com/avBL8pQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/American_Broadcasting_Company_Logo.svg/512px-American_Broadcasting_Company_Logo.svg.png" group-title="Series",ABC East (720p)
 http://40.160.24.52/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/American_Broadcasting_Company_Logo.svg/512px-American_Broadcasting_Company_Logo.svg.png" group-title="Series",ABC West (720p)
@@ -388,17 +383,10 @@ http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52689
 https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCDramaUSA.us@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Series",MBC Drama USA (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
-#EXTINF:-1 tvg-id="WeTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Series",We TV (720p)
-https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="Entertainment",CCTV-3 (720p)
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (720p)
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="Music",CCTV-15 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="Music",CCTV-Storm Music (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (1080p)
