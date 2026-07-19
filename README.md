@@ -5,7 +5,7 @@
 > 
 > ✅ 全部经连通性测试 | 🗓 2026-07-17
 
-> 🔗 `https://raw.githubusercontent.com/yingpcao/iptv_en-cn/main/iptv_cn_en.m3u`
+> 🔗 `https://raw.githubusercontent.com/yingpcao/iptv_en-cn/main/iptv_4chinese_students.m3u`
 
 > 📖 来源 [iptv-org/iptv](https://github.com/iptv-org/iptv) ，精挑细选美剧、news、动画、教育等频道
 
